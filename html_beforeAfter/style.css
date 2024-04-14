@@ -125,3 +125,26 @@ width: 50%;
 width: 50%;
 }
 /* End of Before & After Example with <a> tag*/
+
+/*=============Heading Before Afetr===============*/
+.title {
+    margin: 50px 100px;
+}
+.title h1{
+    position: relative;
+    display: inline-block;
+}
+.title h1::before{
+    position: absolute;
+    content: "";
+    bottom: 0;
+    left:0;
+    height: 2px;
+    width: 70px;
+    background: #000;
+    transition: .3s;
+}
+.title h1:hover::before{
+    width: 100%;
+}
+/*=============End of Heading Before Afetr===============*/
