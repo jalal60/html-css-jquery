@@ -1,26 +1,3 @@
-.parent{
-    position: relative;
-    margin-top: 100px;
-    margin-left: 100px;
-}
-
-.child-img{
-    width: 500px;
-}
-.child-img img{
-    width: 100%;
-}
-.child-text{
-    position: absolute;
-    top:0;
-    right: 0;
-  
-}
-
-.child-text h2{
-    color: #fff;
-}
-
 /*work**/
 .work{
     position: relative;
