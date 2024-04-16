@@ -9,7 +9,7 @@
 <h3>Available Source code:</h3>
 <hr>
 <ul>
-<li>Basci HTML Project</li>
+<li>Basic HTML Project</li>
 <li>Before and After CSS Example</li>
 <li>Basic Jquery Example</li>
 </ul>
