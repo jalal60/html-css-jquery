@@ -11,6 +11,7 @@
 <ul>
 <li>Basci HTML Project</li>
 <li>Before and After CSS Example</li>
+<li>Basic Jquery Example</li>
 </ul>
 
 </body>
